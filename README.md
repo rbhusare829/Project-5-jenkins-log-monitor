@@ -1,6 +1,6 @@
 # 🚀 Project 5 - Automated Jenkins Job Triggered by Access Log Size
 
-**🌍 Region:** ap-south-1 (Mumbai)
+![project5_jenkins](screenshots/project5_jenkins_poster.svg)
 
 ---
 
